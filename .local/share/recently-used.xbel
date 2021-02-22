@@ -79,7 +79,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/user/2.js" added="2021-02-22T12:04:03Z" modified="2021-02-22T12:04:07Z" visited="1969-12-31T23:59:59Z">
+  <bookmark href="file:///home/user/2.js" added="2021-02-22T12:04:03Z" modified="2021-02-22T13:17:47Z" visited="1969-12-31T23:59:59Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/javascript"/>
@@ -87,7 +87,7 @@
           <bookmark:group>pluma</bookmark:group>
         </bookmark:groups>
         <bookmark:applications>
-          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2021-02-22T12:04:07Z" count="2"/>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2021-02-22T13:17:47Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
