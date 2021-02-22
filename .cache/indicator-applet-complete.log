@@ -1,0 +1,61 @@
+Binding '<Super>S' failed!
+
+gtk_distribute_natural_allocation: assertion 'extra_space >= 0' failed
+Signal: Entry Added
+gtk_distribute_natural_allocation: assertion 'extra_space >= 0' failed
+Request current apps
+Unable to get application list: GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: No such interface “com.canonical.indicator.application.service” on object at path /com/canonical/indicator/application/service
+Signal: Entry Added
+Building new application entry: :1.42  with icon: nm-stage03-connecting02 at position 0
+Generating properties error for: 29
+Generating properties error for: 150
+Generating properties error for: 192
+Generating properties error for: 364
+Generating properties error for: 378
+Generating properties error for: 419
+Generating properties error for: 459
+Generating properties error for: 464
+Generating properties error for: 678
+Generating properties error for: 787
+Generating properties error for: 923
+Generating properties error for: 991
+unable to fetch album art: Operation not supported
+unable to fetch album art: Error opening file /home/user/.mozilla/firefox/firefox-mpris/7766_0.png: No such file or directory
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported
+unable to fetch album art: Operation not supported

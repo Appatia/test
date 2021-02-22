@@ -1,0 +1,76 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/user/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=appmenu-gtk-module:gail:atk-bridge:canberra-gtk-module
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-mate:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting LC_ADDRESS=uk_UA.UTF-8
+dbus-update-activation-environment: setting LC_NAME=uk_UA.UTF-8
+dbus-update-activation-environment: setting DESKTOP_SESSION=mate
+dbus-update-activation-environment: setting LC_MONETARY=uk_UA.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=appmenu-gtk-module:gail:atk-bridge:canberra-gtk-module
+dbus-update-activation-environment: setting PWD=/home/user
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=mate
+dbus-update-activation-environment: setting LOGNAME=user
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=gtk2
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/user/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/user
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/user
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=uk_UA.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=MATE
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=uk_UA.UTF-8
+dbus-update-activation-environment: setting GTK_OVERLAY_SCROLLING=0
+dbus-update-activation-environment: setting USER=user
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=uk_UA.UTF-8
+dbus-update-activation-environment: setting LC_MEASUREMENT=uk_UA.UTF-8
+dbus-update-activation-environment: setting UBUNTU_MENUPROXY=1
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting COMPIZ_CONFIG_PROFILE=mate
+dbus-update-activation-environment: setting LC_TIME=uk_UA.UTF-8
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/mate:/usr/local/share:/usr/share:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=mate
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=uk_UA.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+mate-session[1071]: WARNING: Unable to find provider '' of required component 'dock'
+Window manager warning: Log level 128: unsetenv() is not thread-safe and should not be used after threads are created
+Window manager warning: Log level 128: Name com.canonical.AppMenu.Registrar does not exist on the session bus
+
+
+** (process:1398): WARNING **: 15:24:29.293: could not find the desktop file for 'org.gnome.Calendar.desktop'
+
+(process:1398): Indicator-Datetime-WARNING **: 15:24:29.403: Unrecognized TZID: 'Etc/Utc'
+
+(process:1398): Indicator-Datetime-WARNING **: 15:24:29.403: Unrecognized TZID: 'Etc/Utc'
+
+(process:1452): indicator-sound-WARNING **: 15:24:29.902: volume-control-pulse.vala:744: Unable to connect to dbus server at 'unix:path=/run/user/1000/pulse/dbus-socket': Could not connect: No such file or directory
+
+(caja:1353): Gtk-WARNING **: 15:24:29.906: Failed to register client: GDBus.Error:org.gnome.SessionManager.AlreadyRegistered: Unable to register client
+
+** (mate-screensaver:1411): WARNING **: 15:24:30.744: screensaver already running in this session
+blueman-applet 15.24.31 WARNING  PluginManager:147 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 15.24.31 WARNING  PluginManager:147 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+RuntimeError: object at 0x7f3cd7827600 of type RenameMenu is not initialized
+RuntimeError: object at 0x7f3cd7849f00 of type FolderColorMenu is not initialized
+INFO:root:The HUD is disabled via org.mate.hud in gsettings.
+WARNING:root:can not import unity GI Namespace Dbusmenu not available
+blueman-applet 15.24.51 WARNING  DiscvManager:109 update_menuitems: warning: Adapter is None
+/usr/lib/ubuntu-release-upgrader/check-new-release-gtk:30: PyGIWarning: Gtk was imported without specifying a version first. Use gi.require_version('Gtk', '3.0') before import to ensure that the right version gets loaded.
+  from gi.repository import Gtk
+WARNING:root:timeout reached, exiting
+
+(mate-power-manager:1508): GLib-CRITICAL **: 16:09:13.959: Source ID 48 was not found when attempting to remove it

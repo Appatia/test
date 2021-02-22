@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/user/Downloads/Drupal%208%20-%20Lesson%201.pptx" added="2021-02-22T09:26:38Z" modified="2021-02-22T09:27:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.presentationml.presentation"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2021-02-22T09:26:38Z" count="1"/>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2021-02-22T09:27:20Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/test.js" added="2021-02-22T09:43:54Z" modified="2021-02-22T10:35:28Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2021-02-22T10:35:28Z" count="13"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/test2.js" added="2021-02-22T10:07:12Z" modified="2021-02-22T11:02:09Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2021-02-22T11:02:09Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/auth.js" added="2021-02-22T10:53:51Z" modified="2021-02-22T12:07:39Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2021-02-22T12:07:39Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/register.js" added="2021-02-22T11:02:12Z" modified="2021-02-22T12:58:42Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2021-02-22T12:58:42Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/1.js" added="2021-02-22T11:58:00Z" modified="2021-02-22T13:12:14Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2021-02-22T13:12:14Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/user/2.js" added="2021-02-22T12:04:03Z" modified="2021-02-22T12:04:07Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:groups>
+          <bookmark:group>pluma</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Pluma" exec="&apos;pluma %u&apos;" modified="2021-02-22T12:04:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
